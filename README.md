@@ -4,7 +4,7 @@ I'm a **well-qualified** full-stack developer offering **2+ years** of related e
 
 ## Github Stats
 
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+<details ><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
 ![MAKSTYLE119's GitHub stats](https://github-readme-stats.vercel.app/api?username=makstyle119&count_private=true&show_icons=true)
 
