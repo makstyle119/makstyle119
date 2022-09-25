@@ -2,11 +2,25 @@
 
 I'm a **well-qualified** full-stack developer offering **2+ years** of related experience. A collaborative team player with excellent technical abilities and familiarity with a wide range of **programming** utilities and languages, have knowledge of **backend** and **frontend** development requirementsand can handle any part of the process with ease.
 
+## Github Stats
+
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+
 ![MAKSTYLE119's GitHub stats](https://github-readme-stats.vercel.app/api?username=makstyle119&count_private=true&show_icons=true)
+
+</details>
+
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
 
 ![streak stats](https://streak-stats.demolab.com/?user=makstyle119)
 
+</details>
+
+<details><summary><h3>🔊 Top Languages</h3></summary>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makstyle119&layout=compact&langs_count=8)
+
+</details>
 
 <!--
 
