@@ -30,6 +30,7 @@ I'm a **well-qualified** full-stack developer offering **2+ years** of related e
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=makstyle119&column=10"/>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=makstyle119)]
 
 Here are some ideas to get you started:
 
