@@ -22,6 +22,12 @@ I'm a **well-qualified** full-stack developer offering **2+ years** of related e
 
 </details>
 
+<details><summary><h3>🏆 Top Trophies</h3></summary>
+
+![Top Trophies](https://github-profile-trophy.vercel.app/?username=makstyle119)
+
+</details>
+
 <!--
 
 ### Hi there 👋
