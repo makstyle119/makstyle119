@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Mohammad Moiz Ali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I'm a **well-qualified** full-stack developer offering **2+ years** of related experience. A collaborative team player with excellent technical abilities and familiarity with a wide range of **programming** utilities and languages, have knowledge of **backend** and **frontend** development requirementsand can handle any part of the process with ease.
+I'm a **well-qualified** full-stack developer offering **4+ years** of related experience. A collaborative team player with excellent technical abilities and familiarity with a wide range of **programming** utilities and languages, have knowledge of **backend** and **frontend** development requirementsand can handle any part of the process with ease.
 
 <hr />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makstyle119&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshan-saleem" /> </p>
