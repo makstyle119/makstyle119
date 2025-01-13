@@ -13,13 +13,15 @@ I'm a **well-qualified** full-stack developer offering **4+ years** of related e
 ![MAKSTYLE119's GitHub stats](https://github-readme-stats.vercel.app/api?username=makstyle119&count_private=true&show_icons=true)
 
 </details>
-
+<!--
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
-
+-->
+<!--
 ![streak stats](https://streak-stats.demolab.com/?user=makstyle119)
-
+-->
+<!--
 </details>
-
+-->
 <details><summary><h3>🔊 Top Languages</h3></summary>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makstyle119&layout=compact&langs_count=8)
